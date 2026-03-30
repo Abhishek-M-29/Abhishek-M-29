@@ -20,7 +20,7 @@
 
 <a href="https://www.linkedin.com/in/abhishekmg/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2&labelColor=0d1117"/></a>&nbsp;
 <a href="https://github.com/Abhishek-M-29"><img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=30363d&labelColor=0d1117"/></a>&nbsp;
-<a href="https://leetcode.com/u/Abhishek_M_29/"><img src="https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=FFA116&color=1c1c1c&labelColor=0d1117"/></a>&nbsp;
+<a href="https://leetcode.com/u/inwrongplannet/"><img src="https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=FFA116&color=1c1c1c&labelColor=0d1117"/></a>&nbsp;
 <a href="mailto:abhishekmurali2006@gmail.com"><img src="https://img.shields.io/badge/Mail-informational?style=flat&logo=gmail&logoColor=white&color=EA4335&labelColor=0d1117"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Abhishek-M-29&style=flat&color=8b949e&label=profile+views&labelColor=0d1117" alt="profile views"/>

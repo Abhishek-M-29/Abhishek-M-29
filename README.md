@@ -4,7 +4,7 @@
 
 **AI Systems &nbsp;·&nbsp; Retrieval Engineering &nbsp;·&nbsp; Backend Architecture**
 
-*Building production-grade AI systems where retrieval, reasoning, and infrastructure converge.*
+[![Tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=25&repeat=true&cursor=false&lines=Building+production-grade+AI+systems+where+retrieval,+reasoning,+and+infrastructure+converge.)](https://github.com/Abhishek-M-29)
 
 <br/>
 
@@ -43,21 +43,7 @@ Transparent diagnostic pipeline combining RAG + CAG to surface not just answers 
 
 ---
 
-**[NewsRadar](https://github.com/Abhishek-M-29/NewsRadar)** &nbsp;`2025`&nbsp; — Automated News Intelligence Pipeline
 
-A fully automated news aggregation and summarization engine that scrapes, parses, and classifies real-time feeds across multiple domains. Built for high-throughput ingestion with intelligent deduplication.
-
-`Feedparser` `BeautifulSoup` `Selenium` `Python` `NLP`
-
----
-
-**[DocuBot](https://github.com/Abhishek-M-29/DocuBot)** &nbsp;`2025`&nbsp; — Document Q&A over Private Knowledge Bases
-
-RAG-powered document assistant that ingests PDFs and internal documents, chunks and embeds them into a vector store, and answers natural-language queries with grounded, cited responses.
-
-`RAG` `Vector Store` `FastAPI` `LLM` `Python`
-
----
 
 ## Stack
 

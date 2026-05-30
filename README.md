@@ -22,17 +22,29 @@ I build **AI systems** — retrieval-augmented pipelines, production backends, a
 
 ## Projects
 
-### [PharmaGuard](https://github.com/Abhishek-M-29/PharmaGuard) `2026`
-Pharmacogenomic risk engine analyzing patient VCF data against CPIC guidelines with LLM-powered drug risk reports.
-`FastAPI` `PharmCAT` `Docker` `LLM` `Azure VM`
+### [KJU (Project Aegis)](https://github.com/Abhishek-M-29/KJU)
+Healthcare intelligence platform combining hybrid KG-RAG, ML risk prediction, and a Neo4j knowledge graph for clinical decision support.
+`Python` `FastAPI` `Neo4j` `FAISS` `LLM` `Docker`
 
-### [VaidyaBot](https://github.com/Abhishek-M-29/VaidyaBot) `2025` · 🥇 State Hackathon
-Multilingual voice-based medical assistant with a custom RAG pipeline for real-time, retrieval-grounded health responses.
-`Flask` `MongoDB` `RAG` `Multilingual TTS/STT`
+### [MediMax](https://github.com/IAteNoodles/MediMax)
+AI-powered healthcare management system with multi-agent LangGraph orchestration, ML risk models, and a React dashboard.
+`Python` `FastAPI` `React` `LangGraph` `XGBoost` `Docker`
 
-### [Explainable Diagnosis System](https://github.com/Abhishek-M-29/Explainable-Diagnosis-System) `2025` · 🥈 National Hackathon
-Transparent diagnostic pipeline combining RAG + CAG to surface reasoning traces — making AI-assisted diagnosis interpretable.
-`RAG` `CAG` `Explainable AI` `Healthcare NLP`
+### [RAG-implementation](https://github.com/Abhishek-M-29/RAG-implementation)
+Modular RAG pipeline using LangChain with PDF ingestion, FAISS vector search, and Gemini-powered generation via a Streamlit UI.
+`Python` `LangChain` `FAISS` `Gemini` `Streamlit`
+
+### [switchboard](https://github.com/Abhishek-M-29/switchboard)
+Multi-provider LLM gateway with semantic caching, automatic key rotation, and Prometheus/Grafana observability.
+`Python` `FastAPI` `Redis` `Docker` `Prometheus`
+
+### [Portfolio](https://github.com/Abhishek-M-29/Portfolio)
+Personal portfolio website built with React 19 and Vite, deployed on Netlify.
+`JavaScript` `React` `Vite` `CSS`
+
+### [Inventory-Management-System-JAVA](https://github.com/Abhishek-M-29/Inventory-Management-System-JAVA)
+Desktop inventory management app in Java Swing with predictive restocking, expiry tracking, and color-coded alerts.
+`Java` `Swing`
 
 ## Stack
 

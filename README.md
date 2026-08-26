@@ -4,14 +4,14 @@
 
 **Backend Engineer &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Retrieval Engineering**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=25&repeat=true&cursor=false&lines=Backend+Engineer+%7C+AI+Systems+Builder;RAG+%2B+LLM+%2B+Production+Infrastructure;Systems+%3E+Models.+Always.)](https://github.com/Abhishek-M-29)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=25&repeat=true&cursor=false&lines=Backend+Engineer+%7C+AI+Systems+Builder;RAG+%2B+LLM+%2B+Production+Infrastructure;Systems+%3E+Models.+Always.)](https://github.com/inwrongplannet)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhishek--m.netlify.app-58A6FF?style=for-the-badge&logo=netlify&logoColor=white)](https://abhishek-m.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekmg/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmurali2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-M-29)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inwrongplannet)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/inwrongplannet/)
 
 </div>
@@ -22,10 +22,10 @@ I'm a **backend engineer** who builds **AI systems** — production APIs, retrie
 
 ## Projects
 
-**[RAG-implementation](https://github.com/Abhishek-M-29/RAG-implementation)** — Self-hosted RAG orchestration framework: FastAPI backend with SSE-streamed query responses, pluggable FAISS + Gemini connectors, async ingestion via Redis/RQ, OpenTelemetry observability, and a React + TypeScript frontend. Fully containerized (Docker Compose).
+**[RAG-implementation](https://github.com/inwrongplannet/RAG-implementation)** — Self-hosted RAG orchestration framework: FastAPI backend with SSE-streamed query responses, pluggable FAISS + Gemini connectors, async ingestion via Redis/RQ, OpenTelemetry observability, and a React + TypeScript frontend. Fully containerized (Docker Compose).
 `Python` `FastAPI` `LangChain` `FAISS` `Gemini` `React` `TypeScript` `Redis` `Docker`
 
-**[Project Aegis (KJU)](https://github.com/Abhishek-M-29/KJU)** — Healthcare intelligence platform: hybrid KG-RAG over a Neo4j + MariaDB patient graph, natural-language-to-Cypher query generation, and independent XGBoost risk models for cardiovascular disease, diabetes, and sepsis.
+**[Project Aegis (KJU)](https://github.com/inwrongplannet/KJU)** — Healthcare intelligence platform: hybrid KG-RAG over a Neo4j + MariaDB patient graph, natural-language-to-Cypher query generation, and independent XGBoost risk models for cardiovascular disease, diabetes, and sepsis.
 `Python` `FastAPI` `Neo4j` `MariaDB` `FAISS` `Groq` `XGBoost` `Docker`
 
 **[MediMax](https://github.com/IAteNoodles/MediMax)** — Multi-agent healthcare platform: LangGraph orchestration (Groq + MedGemma) for medical assessments, XGBoost risk models with SHAP explainability, a Neo4j knowledge graph, and a RAG chat agent (FAISS + Gemini) behind a React 19 dashboard.
